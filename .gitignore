@@ -1,3 +1,4 @@
 data
 reference
 .ipynb_checkpoints
+*.ipynb*.tmp
