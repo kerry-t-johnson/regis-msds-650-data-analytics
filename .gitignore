@@ -1,5 +1,7 @@
+__pycache__
 data
 reference
 .ipynb_checkpoints
 *.ipynb*.tmp
 *.zip
+*.html
